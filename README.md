@@ -3,11 +3,14 @@ I'm Mohammed and my passion is to create financial web apps through the power of
 
 - 💬 Ask me about: The reasons why you don't like javascript 😁
 - 📫 How to reach me: 
-
 mdportfolio1.netlify.app 🎨
 dawodmohmmed@gmail.com 📧
 
 - ⚡ Fun fact: Badminton is a pretty cool sport, I can spike a mean birdie 🏸
-- Full-Stack:
-React -
+- Stack:
+PERN-
+PostGres,
+Express,
+React,
 Node
+
